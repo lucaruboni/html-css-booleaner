@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.logo{
+    display: inline-block;
+    height: 180px;
+    width: 100%;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-color: #0f25f2a3;
+}
