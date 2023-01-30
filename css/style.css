@@ -110,6 +110,7 @@ footer{
     top: 260px;
     background-image: url(../img/graph.jpg);
     background-size: cover;
+    margin-bottom: 30px;
 }
 
 #footer-text{
