@@ -27,6 +27,12 @@ body{
 
 }
 
+.contenitore{
+    width: 70%;
+    margin: auto;
+
+}
+
 h1{
     font-size: 70px;
 }
@@ -38,6 +44,11 @@ h3{
 
 h5{
     font-size: 15px;
+    color: #4a4a4df6;
+}
+
+h6{
+    font-size: 18px;
     color: #4a4a4df6;
 }
 
@@ -77,4 +88,31 @@ th{
     display: inline-block;
     background-color: yellow;
     width: auto;
+}
+
+footer{
+    position: relative;
+}
+
+.container{
+    width: 312px;
+    height: 208px;
+}
+
+.container.A{
+    position: absolute;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+}
+
+.container.B{
+    position: absolute;
+    top: 260px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+}
+
+#footer-text{
+    color: white;
+    font-size: 25px;
 }
