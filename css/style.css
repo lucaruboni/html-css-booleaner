@@ -47,7 +47,34 @@ h5{
 
 }
 
-.lorem1>p{
+.paragrafo{
+    font-size: 15px;
     font-weight: 600;
+    display: inline-block;
 
+}
+
+ul{
+    margin-bottom: 30px;
+}
+
+thead{
+    height: 10px;
+    background-color: #0019faf5;
+    color: white;
+}
+
+th{
+    width: 400px;
+}
+
+#tab-sinistra, #tab-destra{
+    background-color: #3283fc;
+
+}
+
+#sfondo-giallo{
+    display: inline-block;
+    background-color: yellow;
+    width: auto;
 }
